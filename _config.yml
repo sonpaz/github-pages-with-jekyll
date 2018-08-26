@@ -1,6 +1,4 @@
 title: Adding a Theme
 author: Me
-description: > # this means to ignore newlines until "baseurl:"
-  Thi is an awesome site
-  
+
 theme: minima
